@@ -1,0 +1,3 @@
+#!C:\Users\Shtun Max\PycharmProjects\PythonBot\venv\Scripts\python.exe
+from now.main import main
+main()
